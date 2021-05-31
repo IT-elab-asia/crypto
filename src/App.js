@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="coin-app">
       <div className="coin-search">
-        <h1 className="coin-text"> Поиск крипты🤩</h1>
+        <h1 className="coin-text"> Поиск Арсена🤩</h1>
         <form>
           <input type="text" placeholder="Поиск" className="coin-input" onChange={handleChange}/>
         </form>
